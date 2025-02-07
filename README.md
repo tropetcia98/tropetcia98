@@ -99,7 +99,7 @@
       <td>Система администрирования</td>
       <td align="center">
         <a target="_blank" href="https://www.1c-bitrix.ru/">
-          <img align="center" src="steam_online_store_UI/images/bitrix.png" width="40" height="40" alt="1C-Битрикс"/>
+          <img align="center" src="tropetcia98/images/1c_bitrix_logo.svg.png" width="40" height="40" alt="1C-Битрикс"/>
         </a>
       </td>
     </tr>
