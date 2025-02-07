@@ -19,7 +19,7 @@
       <td>Язык программирования, IDE</td>
       <td align="center">
         <a target="_blank" href="https://www.python.org/">
-          <img align="center" src="steam_online_store_UI/images/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
+          <img align="center" src="tropetcia98/images/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
         </a>
         <a target="_blank" href="https://www.jetbrains.com/pycharm/">
           <img align="center" src="tropetcia98/images/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
