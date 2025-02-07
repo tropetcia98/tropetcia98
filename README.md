@@ -76,10 +76,10 @@
     <tr>
       <td>Управление проектами</td>
       <td align="center">
-        <a target="_blank" href="https://week.team/">
+        <a target="_blank" href="https://weeek.net/ru">
           <img align="center" src="tropetcia98/images/Week.png" width="40" height="40" alt="Week"/>
         </a>
-        <a target="_blank" href="https://kaiten.io/">
+        <a target="_blank" href="https://kaiten.ru/">
           <img align="center" src="tropetcia98/images/kaiten.svg" width="40" height="40" alt="Kaiten"/>
         </a>
         <a target="_blank" href="https://clickup.com/">
