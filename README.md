@@ -69,7 +69,7 @@
       <td>Игровой движок</td>
       <td align="center">
         <a target="_blank" href="https://unity.com/">
-          <img align="center" src="steam_online_store_UI/images/unity-original-wordmark.svg" width="40" height="40" alt="Unity"/>
+          <img align="center" src="tropetcia98/images/unity_wordmark.svg" width="40" height="40" alt="Unity"/>
         </a>
       </td>
     </tr>
@@ -77,13 +77,13 @@
       <td>Управление проектами</td>
       <td align="center">
         <a target="_blank" href="https://week.team/">
-          <img align="center" src="steam_online_store_UI/images/week.png" width="40" height="40" alt="Week"/>
+          <img align="center" src="tropetcia98/images/Week.png" width="40" height="40" alt="Week"/>
         </a>
         <a target="_blank" href="https://kaiten.io/">
-          <img align="center" src="steam_online_store_UI/images/kaiten.png" width="40" height="40" alt="Kaiten"/>
+          <img align="center" src="tropetcia98/images/kaiten.svg" width="40" height="40" alt="Kaiten"/>
         </a>
         <a target="_blank" href="https://clickup.com/">
-          <img align="center" src="steam_online_store_UI/images/clickup.png" width="40" height="40" alt="ClickUp"/>
+          <img align="center" src="tropetcia98/images/clickup.png" width="40" height="40" alt="ClickUp"/>
         </a>
       </td>
     </tr>
@@ -91,7 +91,7 @@
       <td>Дизайн</td>
       <td align="center">
         <a target="_blank" href="https://www.figma.com/">
-          <img align="center" src="steam_online_store_UI/images/figma-original.svg" width="40" height="40" alt="Figma"/>
+          <img align="center" src="tropetcia98/images/figma-original.svg" width="40" height="40" alt="Figma"/>
         </a>
       </td>
     </tr>
@@ -107,7 +107,7 @@
       <td>Мобильная автоматизация</td>
       <td align="center">
         <a target="_blank" href="https://appium.io/">
-          <img align="center" src="steam_online_store_UI/images/appium-original-wordmark.svg" width="40" height="40" alt="Appium"/>
+          <img align="center" src="tropetcia98/images/appium.png" width="40" height="40" alt="Appium"/>
         </a>
       </td>
     </tr>
@@ -115,7 +115,7 @@
       <td>Управление базами данных</td>
       <td align="center">
         <a target="_blank" href="https://www.postgresql.org/">
-          <img align="center" src="steam_online_store_UI/images/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+          <img align="center" src="tropetcia98/images/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
         </a>
       </td>
     </tr>
@@ -123,7 +123,7 @@
       <td>Сниффер траффика</td>
       <td align="center">
         <a target="_blank" href="https://www.charlesproxy.com/">
-          <img align="center" src="steam_online_store_UI/images/charles.png" width="40" height="40" alt="Charles"/>
+          <img align="center" src="tropetcia98/images/Charles.png" width="40" height="40" alt="Charles"/>
         </a>
       </td>
     </tr>
