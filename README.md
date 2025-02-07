@@ -58,7 +58,7 @@
           <img align="center" src="steam_online_store_UI/images/AllureTestOps.png" width="40" height="40" alt="Allure TestOps"/>
         </a>
         <a target="_blank" href="https://allurereport.org/">
-          <img align="center" src="tropetcia98/images/Allure-report_screenshot.png" width="40" height="40" alt="Allure Report"/>
+          <img align="center" src="tropetcia98/images/AllureReport.png" width="40" height="40" alt="Allure Report"/>
         </a>
         <a target="_blank" href="https://telegram.org/">
           <img align="center" src="steam_online_store_UI/images/Telegram.png" width="40" height="40" alt="Telegram"/>
