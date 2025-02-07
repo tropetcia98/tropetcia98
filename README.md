@@ -172,7 +172,7 @@
 *QA.Quru, 2025*  
 - Навыки: автоматизация тестов (`Selenide`, `Pytest`), `Allure`-отчеты, `Jenkins`, `CI/CD`.  
 - Инструменты: `PyCharm`, `IntelliJ IDEA`, `Appium`. 
-- ![Демонстрационный проект по автоматизации тестирования] (https://github.com/tropetcia98/steam_online_store_UI ) 
+- [Демонстрационный проект по автоматизации тестирования](https://github.com/tropetcia98/steam_online_store_UI ) 
 
 ---
 
