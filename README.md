@@ -1,4 +1,4 @@
-##Обо мне
+## Обо мне
 Привет! Меня зовут Роман, и я — **QA Engineer** с 3-летним опытом в ручном тестировании. В настоящее время активно изучаю автоматизацию тестирования, чтобы расширить свои профессиональные горизонты.
 
 
@@ -19,10 +19,10 @@
       <td>Язык программирования, IDE</td>
       <td align="center">
         <a target="_blank" href="https://www.python.org/">
-          <img align="center" src="steam_online_store_UI/images/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
+          <img align="center" src="tropetcia98/images/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
         </a>
         <a target="_blank" href="https://www.jetbrains.com/pycharm/">
-          <img align="center" src="steam_online_store_UI/images/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
+          <img align="center" src="tropetcia98/images/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
         </a>
       </td>
     </tr>
@@ -30,13 +30,13 @@
       <td>Библиотеки, фреймворки для написания тестов</td>
       <td align="center">
         <a target="_blank" href="https://www.selenium.dev/">
-          <img align="center" src="steam_online_store_UI/images/selenium-original.svg" width="40" height="40" alt="Selenium"/>
+          <img align="center" src="tropetcia98/images/selenium-original.svg" width="40" height="40" alt="Selenium"/>
         </a>
         <a target="_blank" href="https://github.com/yashaka/selene">
-          <img align="center" src="steam_online_store_UI/images/Selene.png" width="40" height="40" alt="Selene"/>
+          <img align="center" src="tropetcia98/images/Selene.png" width="40" height="40" alt="Selene"/>
         </a>
         <a target="_blank" href="https://docs.pytest.org/en/stable/index.html#">
-          <img align="center" src="steam_online_store_UI/images/pytest-original-wordmark.svg" width="40" height="40" alt="Pytest"/>
+          <img align="center" src="tropetcia98/images/pytest-original-wordmark.svg" width="40" height="40" alt="Pytest"/>
         </a>
       </td>
     </tr>
@@ -44,10 +44,10 @@
       <td>Запуск тестов</td>
       <td align="center">
         <a target="_blank" href="https://www.jenkins.io/">
-          <img align="center" src="steam_online_store_UI/images/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
+          <img align="center" src="tropetcia98/images/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
         </a>
         <a target="_blank" href="https://github.com/aerokube/selenoid">
-          <img align="center" src="steam_online_store_UI/images/selenoid.png" width="40" height="40" alt="Selenoid"/>
+          <img align="center" src="tropetcia98/images/selenoid.png" width="40" height="40" alt="Selenoid"/>
         </a>
       </td>
     </tr>
@@ -55,13 +55,13 @@
       <td>Формирование отчета и отправление уведомлений</td>
       <td align="center">
         <a target="_blank" href="https://qameta.io/">
-          <img align="center" src="steam_online_store_UI/images/AllureTestOps.png" width="40" height="40" alt="Allure TestOps"/>
+          <img align="center" src="tropetcia98/images/AllureTestOps.png" width="40" height="40" alt="Allure TestOps"/>
         </a>
         <a target="_blank" href="https://allurereport.org/">
-          <img align="center" src="tropetcia98/images/Allure-report_screenshot.png" width="40" height="40" alt="Allure Report"/>
+          <img align="center" src="tropetcia98/images/AllureReport.png" width="40" height="40" alt="Allure Report"/>
         </a>
         <a target="_blank" href="https://telegram.org/">
-          <img align="center" src="steam_online_store_UI/images/Telegram.png" width="40" height="40" alt="Telegram"/>
+          <img align="center" src="tropetcia98/images/Telegram.png" width="40" height="40" alt="Telegram"/>
         </a>
       </td>
     </tr>
@@ -172,7 +172,7 @@
 *QA.Quru, 2025*  
 - Навыки: автоматизация тестов (`Selenide`, `Pytest`), `Allure`-отчеты, `Jenkins`, `CI/CD`.  
 - Инструменты: `PyCharm`, `IntelliJ IDEA`, `Appium`. 
-- [Демонстрационный проект по автоматизации тестирования] (https://github.com/tropetcia98/steam_online_store_UI ) 
+- ![Демонстрационный проект по автоматизации тестирования] (https://github.com/tropetcia98/steam_online_store_UI ) 
 
 ---
 
@@ -185,6 +185,3 @@
 
 ## 📌 Рекомендации  
 Готов предоставить по запросу.  
-
----n fact: ...
--->
